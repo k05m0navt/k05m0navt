@@ -6,7 +6,8 @@
 - ⚡ Fun fact: I love to snowboarding, skating and play guitar
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/9bbj9f7xhzysix0zmcyr07y7l)
+
+[<img src="https://novatorem-tawny-five.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/6d271297081b443991daa76eaf68a88c)
 
 ### Connect with me:
 
