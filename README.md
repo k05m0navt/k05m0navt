@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-tawny-five.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/	9bbj9f7xhzysix0zmcyr07y7l)
+[<img src="https://novatorem-tawny-five.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/9bbj9f7xhzysix0zmcyr07y7l)
 
 ### Connect with me:
 
